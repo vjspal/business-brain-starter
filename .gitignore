@@ -1,0 +1,14 @@
+# Obsidian working state — noisy, machine-specific
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.trash/
+
+# OS junk
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Anything you want kept off GitHub entirely.
+# Uncomment or add paths as needed.
+# private/
+# 40_Clients/
